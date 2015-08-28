@@ -1,6 +1,7 @@
 # py_pdf_parser_demo
 
-Description and fragments of a Matlab application for ETF ROC trading stategy. The purpose of this repo is to showcase my protfolio of apps for cleints and to evalute my coding style.
+Description and fragments of a Python 3 application to extract the required data form
+a asset price data stored in a table on a PDF file.   The purpose of this repo is to showcase my protfolio of apps for cleints and to evalute my coding style.
 
 
 Proof of concept module for parsing PDF file and extarcting asset price 
